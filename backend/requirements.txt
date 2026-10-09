@@ -3,3 +3,4 @@ uvicorn[standard]
 serpapi
 python-dotenv
 pydantic
+supabase
