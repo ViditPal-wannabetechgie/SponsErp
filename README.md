@@ -1,4 +1,4 @@
-# 🌌 SponsErp — Cosmic Micro-Sponsorship Intelligence Platform
+# 🌌 SponsErp — Micro-Sponsorship Intelligence Platform
 
 > **Hyper-local B2B sponsorship intelligence engine connecting event organizers with high-converting local businesses and transit footfall hubs using real-time Google Maps coordinates.**
 
